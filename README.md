@@ -1,6 +1,3 @@
-# digital-literacy-project
-
-# digital-literacy-project
 
 # Digital Literacy Project
 
@@ -24,7 +21,7 @@ spreadsheet link : https://docs.google.com/spreadsheets/d/1XbpXF84TE37hJDGqJ905t
 
 ## Folder Structure
 - `report/` → Final written report
-- `task-1-presentation/` → Presentation link/image and description
+- `task-1-presentation/` → Presentation image and description
 - `task-2-portfolio/` → Portfolio screenshots and reflection notes
 - `task-3-platforms/` → Platform screenshots, activity proof, notes
 - `task-4-email-etiquette/` → Email drafts and etiquette checklist
